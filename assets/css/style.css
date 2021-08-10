@@ -501,6 +501,8 @@ iframe{
 }
 
 .member__image{
+	display:block;
+	
 	width: 220px;
 	height: 230px;
 	
@@ -589,6 +591,8 @@ iframe{
 }
 
 .works__img{
+	display: block;
+	
 	width: 270px;
 	height: 200px;
 	
