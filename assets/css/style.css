@@ -500,6 +500,13 @@ iframe{
 	background-color: #ebebeb;
 }
 
+.member__image{
+	width: 220px;
+	height: 230px;
+	
+	background-color: #b6b6b6;
+}
+
 .member__info{
 	color: #fff;
 	font-size: 14px;
@@ -581,15 +588,18 @@ iframe{
 	margin: 0 auto;
 }
 
+.works__img{
+	width: 270px;
+	height: 200px;
+	
+	background-color: #b6b6b6;
+}
+
 .button__place{
 	display: flex;
 	justify-content: center;
 	margin-bottom: 70px;
 	margin-top: 20px;
-}
-
-.works__btn{
-	
 }
 
 /*  comments  */
